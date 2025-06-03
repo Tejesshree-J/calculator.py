@@ -1,0 +1,5 @@
+f1d2d2f0 (Alice 2025-06-01 10:12:00 +0000 1) def add(a, b):
+f1d2d2f0 (Alice 2025-06-01 10:12:00 +0000 2)     return a + b
+8a5cbcd1 (Bob   2025-06-03 09:55:14 +0000 3) 
+8a5cbcd1 (Bob   2025-06-03 09:55:14 +0000 4) def subtract(a, b):
+8a5cbcd1 (Bob   2025-06-03 09:55:14 +0000 5)     return a - b
